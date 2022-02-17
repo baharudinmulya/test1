@@ -1,0 +1,11 @@
+ul.transportasi{
+    list-style-type: square;
+}
+
+ul.lokasi{
+    list-style-type: circle;
+}
+
+ol{
+    list-style-type: upper-roman;
+}
